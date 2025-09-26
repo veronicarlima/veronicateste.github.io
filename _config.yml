@@ -1,6 +1,6 @@
 title: Meu Site com Hyde
 description: Site estático no GitHub Pages usando tema remoto Hyde
-url: "https://SEU_USUARIO.github.io"
+url: "https://veronicarlima.github.io/veronicateste.github.io/"
 baseurl: "" # deixe vazio se for repositório user/organization pages
 
 remote_theme: poole/hyde
